@@ -44,7 +44,7 @@ function Home() {
       </div>
 
       <div className="home-content">
-        <h1>Welcome to Konga Travel Booking</h1>
+        <h1>Welcome to Dipesh Travel Booking</h1>
         <p>Book your trip from Bengaluru to Kashmir and other northern destinations.</p>
       </div>
     </main>
